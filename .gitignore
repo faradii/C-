@@ -1,0 +1,17 @@
+Thumbs.db
+Desktop.ini
+
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosschache
+*.sln.ide
+bin/
+obj/
+*.log
+project.lock.json
+project.json
+*.dll
+*.exe
